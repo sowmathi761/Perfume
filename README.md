@@ -34,6 +34,8 @@ This project displays different perfume varieties with images, descriptions, an 
 |-- style.css
 ```
 
+## Refernce image refer the below pdf
+code output Screenshot.pdf
 
 
 
