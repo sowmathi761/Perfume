@@ -34,13 +34,9 @@ This project displays different perfume varieties with images, descriptions, an 
 |-- style.css
 ```
 
----
 
-## 📸 Preview (Optional)
 
-Add screenshots here after uploading images.
 
----
 
 ## 📖 Description
 
